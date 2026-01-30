@@ -28,7 +28,7 @@ This project focuses on **semantic HTML structure and how we can create a resume
 
 
 ## To have a live Preview visit on this below link 
-
+[My Resume Website ](https://resume-page-sooty.vercel.app)
 
 
 ## Screenshots 
