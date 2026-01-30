@@ -27,10 +27,23 @@ This project focuses on **semantic HTML structure and how we can create a resume
 - Beginner-friendly project
 
 
+## To have a live Preview visit on this below link 
+
+
+
 ## Screenshots 
 
 > Preview of the single-page HTML resume
-![Screenshot of the Rusume page](Resume.png)
+![Screenshot of the Rusume page](./Assets/Image/Resume%20.png)
 
 
-![Screenshot of the Rusume page ](Resume2.png)
+![Screenshot of the Rusume page ](./Assets/Image/Resume2%20.png)
+
+> Preview of the every single section of HTML Resume 
+
+![Screenshot of the Header Tag ](./Assets/Image/%20Header.png)
+
+![Screenshot of the Main Tag ](./Assets/Image/Main.png)
+
+![Screenshot of the Footer Tag ](./Assets/Image/%20footer.png)
+
